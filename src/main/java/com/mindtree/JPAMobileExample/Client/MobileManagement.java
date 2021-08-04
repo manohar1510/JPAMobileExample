@@ -78,7 +78,7 @@ public class MobileManagement {
 		System.out.println("Enter 3 to Update Mobile data");
 		System.out.println("Enter 4 to Delete Mobile data");
 		System.out.println("Enter 5 to Exit");
-		System.out.println("Enter your choice");
+		System.out.println("Enter your desired choice");
 		int choice = scan.nextInt();
 		return choice;
 	}
